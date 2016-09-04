@@ -1,4 +1,4 @@
 # warriors_gae
 
-# env google app engine
-# language python 2.7
+- google app engine
+- python 2.7
